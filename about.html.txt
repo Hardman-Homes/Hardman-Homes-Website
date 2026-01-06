@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <title>About | Hardman Homes and Consulting LLC</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <img src="images/logo.png" alt="Hardman Homes Logo">
+    <h1>Hardman Homes and Consulting LLC</h1>
+    <p>Professional Home Inspections in Roanoke, Virginia</p>
+</header>
+
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+</nav>
+
+<div class="container">
+    <h2>Our Mission</h2>
+    <p>
+        Our mission is to provide high-quality home inspections that give homeowners
+        and buyers peace of mind. We believe in transparency, accuracy, and clear
+        communication.
+    </p>
+
+    <h2>Serving Roanoke, Virginia</h2>
+    <p>
+        Based in the Roanoke, Virginia area, Hardman Homes and Consulting LLC understands
+        the unique construction styles and common issues found in local homes.
+    </p>
+</div>
+
+<footer>
+    <p>&copy; 2026 Hardman Homes and Consulting LLC</p>
+</footer>
+
+</body>
+</html>
